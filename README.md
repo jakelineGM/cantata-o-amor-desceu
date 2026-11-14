@@ -23,6 +23,9 @@ Aqui ficam os materiais de produção: playbacks, narrações, vídeos, projeto 
 ```
 cantata-o-amor-desceu/
 ├── README.md
+├── partituras/
+│   ├── revisao-partitura-PT.md   # revisão da partitura em português (v2 → v3) contra a original
+│   └── auditoria-v3.md           # auditoria da versão definitiva contra a original
 ├── roteiro/
 │   ├── etapa-1-estrutura.md   # ordem das músicas, durações, narração e mapa geral de tempos
 │   └── mapa-de-tempos.json    # os mesmos tempos, em segundos, para scripts
