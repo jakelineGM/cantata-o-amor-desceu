@@ -1,14 +1,12 @@
 {
   "obra": "Cantata de Natal 2026 - O Amor Desceu (Love Came Down at Christmas, Joel Raney) - Grupo Herdeiros",
-  "gerado_em": "2026-11-13",
+  "gerado_em": "2026-11-14",
   "etapa": 1,
   "observacoes": [
-    "Tempos em segundos. Dentro de cada faixa, contados do inicio do arquivo-base.",
+    "Tempos em segundos. Dentro de cada faixa, contados do inicio do arquivo de playback.",
     "linha_do_tempo: arquivos em sequencia, como estao, sem cortes.",
-    "Faixas 5 e 6 provisorias: playback nao recebido; tempos da faixa cantada de referencia.",
-    "Precisao: duracoes por ffprobe; coro_entra das faixas 1-4 +/-0,2 s; narracao e coro_entra das faixas 5-6 +/-0,5 s."
+    "Precisao: duracoes por ffprobe; coro_entra +/-0,2 s (residuo cantada menos playback); narracao +/-0,5 s (transcricao automatica)."
   ],
-  "duracao_total_provisoria_s": 1522.29,
   "faixas": [
     {
       "faixa": 1,
@@ -162,71 +160,72 @@
       "faixa": 5,
       "titulo": "O Amor seja seu e meu",
       "titulo_original": "Love Be Yours, Love Be Mine (Love)",
-      "playback": null,
+      "playback": "playbacks/05_o-amor-seja-seu-e-meu_playback.mp3",
       "referencia_cantada": "referencia-cantada/05_o-amor-seja-seu-e-meu_cantada-EN.mp3",
-      "provisorio": true,
-      "base_dos_tempos": "faixa cantada de referencia",
-      "duracao_arquivo_s": 264.67,
-      "primeiro_som_s": 0.08,
-      "ultimo_som_s": 262.18,
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 270.08,
+      "primeiro_som_s": 0.64,
+      "ultimo_som_s": 261.98,
       "duracao_cantada_s": 264.67,
-      "defasagem_playback_menos_cantada_s": null,
+      "defasagem_playback_menos_cantada_s": 0.431,
       "narracao_original_frases_s": [
         [
-          4.7,
-          23.3
+          5.1,
+          23.7
         ],
         [
-          25.0,
-          34.6
+          25.4,
+          35.0
         ]
       ],
-      "coro_entra_s": 36.6,
+      "coro_entra_s": 37.1,
       "linha_do_tempo": {
         "inicio_s": 1069.32,
-        "narracao_inicio_s": 1074.0,
-        "narracao_fim_s": 1103.9,
-        "coro_entra_s": 1105.9,
-        "ultimo_som_s": 1331.5,
-        "fim_s": 1334.0
+        "narracao_inicio_s": 1074.4,
+        "narracao_fim_s": 1104.3,
+        "coro_entra_s": 1106.4,
+        "ultimo_som_s": 1331.3,
+        "fim_s": 1339.4
       }
     },
     {
       "faixa": 6,
       "titulo": "Amor divino (Finale e Reprise)",
       "titulo_original": "Love Divine (Finale and Reprise)",
-      "playback": null,
+      "playback": "playbacks/06_amor-divino_playback.mp3",
       "referencia_cantada": "referencia-cantada/06_amor-divino_cantada-EN.mp3",
-      "provisorio": true,
-      "base_dos_tempos": "faixa cantada de referencia",
-      "duracao_arquivo_s": 188.29,
-      "primeiro_som_s": 0.02,
-      "ultimo_som_s": 187.12,
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 189.54,
+      "primeiro_som_s": 0.48,
+      "ultimo_som_s": 187.02,
       "duracao_cantada_s": 188.29,
-      "defasagem_playback_menos_cantada_s": null,
+      "defasagem_playback_menos_cantada_s": 0.44,
       "narracao_original_frases_s": [
         [
-          8.2,
-          23.0
+          8.6,
+          23.4
         ],
         [
-          23.5,
-          31.2
+          23.9,
+          31.6
         ],
         [
-          32.6,
-          36.5
+          33.0,
+          36.9
         ]
       ],
-      "coro_entra_s": 38.0,
+      "coro_entra_s": 38.9,
       "linha_do_tempo": {
-        "inicio_s": 1334.0,
-        "narracao_inicio_s": 1342.2,
-        "narracao_fim_s": 1370.5,
-        "coro_entra_s": 1372.0,
-        "ultimo_som_s": 1521.1,
-        "fim_s": 1522.29
+        "inicio_s": 1339.4,
+        "narracao_inicio_s": 1348.0,
+        "narracao_fim_s": 1376.3,
+        "coro_entra_s": 1378.3,
+        "ultimo_som_s": 1526.4,
+        "fim_s": 1528.95
       }
     }
-  ]
+  ],
+  "duracao_total_s": 1528.95
 }
