@@ -1,0 +1,231 @@
+{
+  "obra": "Cantata de Natal 2026 - O Amor Desceu (Love Came Down at Christmas, Joel Raney) - Grupo Herdeiros",
+  "gerado_em": "2026-11-14",
+  "etapa": 1,
+  "observacoes": [
+    "Tempos em segundos. Dentro de cada faixa, contados do inicio do arquivo de playback.",
+    "linha_do_tempo: arquivos em sequencia, como estao, sem cortes.",
+    "Precisao: duracoes por ffprobe; coro_entra +/-0,2 s (residuo cantada menos playback); narracao +/-0,5 s (transcricao automatica)."
+  ],
+  "faixas": [
+    {
+      "faixa": 1,
+      "titulo": "O Amor desceu (Abertura)",
+      "titulo_original": "Love Came Down (Opener)",
+      "playback": "playbacks/01_o-amor-desceu_playback.mp3",
+      "referencia_cantada": "referencia-cantada/01_o-amor-desceu_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 264.65,
+      "primeiro_som_s": 0.44,
+      "ultimo_som_s": 256.92,
+      "duracao_cantada_s": 256.16,
+      "defasagem_playback_menos_cantada_s": 0.228,
+      "narracao_original_frases_s": [
+        [
+          2.7,
+          9.4
+        ],
+        [
+          10.2,
+          17.0
+        ],
+        [
+          22.0,
+          28.0
+        ],
+        [
+          38.1,
+          46.3
+        ]
+      ],
+      "coro_entra_s": 47.0,
+      "linha_do_tempo": {
+        "inicio_s": 0.0,
+        "narracao_inicio_s": 2.7,
+        "narracao_fim_s": 46.3,
+        "coro_entra_s": 47.0,
+        "ultimo_som_s": 256.9,
+        "fim_s": 264.65
+      }
+    },
+    {
+      "faixa": 2,
+      "titulo": "Vem, Emanuel, vem",
+      "titulo_original": "Come, Emmanuel, Come (Hope)",
+      "playback": "playbacks/02_vem-emanuel-vem_playback.mp3",
+      "referencia_cantada": "referencia-cantada/02_vem-emanuel-vem_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 287.69,
+      "primeiro_som_s": 0.46,
+      "ultimo_som_s": 280.48,
+      "duracao_cantada_s": 281.55,
+      "defasagem_playback_menos_cantada_s": 0.427,
+      "narracao_original_frases_s": [
+        [
+          8.2,
+          19.5
+        ],
+        [
+          22.5,
+          31.9
+        ],
+        [
+          37.6,
+          41.6
+        ],
+        [
+          44.6,
+          50.4
+        ]
+      ],
+      "coro_entra_s": 60.5,
+      "linha_do_tempo": {
+        "inicio_s": 264.65,
+        "narracao_inicio_s": 272.8,
+        "narracao_fim_s": 315.0,
+        "coro_entra_s": 325.2,
+        "ultimo_som_s": 545.1,
+        "fim_s": 552.33
+      }
+    },
+    {
+      "faixa": 3,
+      "titulo": "Dá-nos paz",
+      "titulo_original": "Grant Us Peace (Peace)",
+      "playback": "playbacks/03_da-nos-paz_playback.mp3",
+      "referencia_cantada": "referencia-cantada/03_da-nos-paz_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 259.06,
+      "primeiro_som_s": 0.44,
+      "ultimo_som_s": 251.76,
+      "duracao_cantada_s": 253.44,
+      "defasagem_playback_menos_cantada_s": 0.429,
+      "narracao_original_frases_s": [
+        [
+          11.9,
+          32.6
+        ],
+        [
+          33.3,
+          47.8
+        ]
+      ],
+      "coro_entra_s": 48.4,
+      "linha_do_tempo": {
+        "inicio_s": 552.33,
+        "narracao_inicio_s": 564.2,
+        "narracao_fim_s": 600.1,
+        "coro_entra_s": 600.8,
+        "ultimo_som_s": 804.1,
+        "fim_s": 811.39
+      }
+    },
+    {
+      "faixa": 4,
+      "titulo": "Ouça a alegre canção",
+      "titulo_original": "Listen to the Joyful Song (Joy)",
+      "playback": "playbacks/04_ouca-a-alegre-cancao_playback.mp3",
+      "referencia_cantada": "referencia-cantada/04_ouca-a-alegre-cancao_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 257.93,
+      "primeiro_som_s": 0.44,
+      "ultimo_som_s": 250.68,
+      "duracao_cantada_s": 252.13,
+      "defasagem_playback_menos_cantada_s": 0.435,
+      "narracao_original_frases_s": [
+        [
+          10.8,
+          25.8
+        ],
+        [
+          27.0,
+          37.5
+        ]
+      ],
+      "coro_entra_s": 51.2,
+      "linha_do_tempo": {
+        "inicio_s": 811.39,
+        "narracao_inicio_s": 822.2,
+        "narracao_fim_s": 848.9,
+        "coro_entra_s": 862.6,
+        "ultimo_som_s": 1062.1,
+        "fim_s": 1069.32
+      }
+    },
+    {
+      "faixa": 5,
+      "titulo": "O Amor seja seu e meu",
+      "titulo_original": "Love Be Yours, Love Be Mine (Love)",
+      "playback": "playbacks/05_o-amor-seja-seu-e-meu_playback.mp3",
+      "referencia_cantada": "referencia-cantada/05_o-amor-seja-seu-e-meu_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 270.08,
+      "primeiro_som_s": 0.64,
+      "ultimo_som_s": 261.98,
+      "duracao_cantada_s": 264.67,
+      "defasagem_playback_menos_cantada_s": 0.431,
+      "narracao_original_frases_s": [
+        [
+          5.1,
+          23.7
+        ],
+        [
+          25.4,
+          35.0
+        ]
+      ],
+      "coro_entra_s": 37.1,
+      "linha_do_tempo": {
+        "inicio_s": 1069.32,
+        "narracao_inicio_s": 1074.4,
+        "narracao_fim_s": 1104.3,
+        "coro_entra_s": 1106.4,
+        "ultimo_som_s": 1331.3,
+        "fim_s": 1339.4
+      }
+    },
+    {
+      "faixa": 6,
+      "titulo": "Amor divino (Finale e Reprise)",
+      "titulo_original": "Love Divine (Finale and Reprise)",
+      "playback": "playbacks/06_amor-divino_playback.mp3",
+      "referencia_cantada": "referencia-cantada/06_amor-divino_cantada-EN.mp3",
+      "provisorio": false,
+      "base_dos_tempos": "playback",
+      "duracao_arquivo_s": 189.54,
+      "primeiro_som_s": 0.48,
+      "ultimo_som_s": 187.02,
+      "duracao_cantada_s": 188.29,
+      "defasagem_playback_menos_cantada_s": 0.44,
+      "narracao_original_frases_s": [
+        [
+          8.6,
+          23.4
+        ],
+        [
+          23.9,
+          31.6
+        ],
+        [
+          33.0,
+          36.9
+        ]
+      ],
+      "coro_entra_s": 38.9,
+      "linha_do_tempo": {
+        "inicio_s": 1339.4,
+        "narracao_inicio_s": 1348.0,
+        "narracao_fim_s": 1376.3,
+        "coro_entra_s": 1378.3,
+        "ultimo_som_s": 1526.4,
+        "fim_s": 1528.95
+      }
+    }
+  ],
+  "duracao_total_s": 1528.95
+}
