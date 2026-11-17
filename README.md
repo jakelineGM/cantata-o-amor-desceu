@@ -24,13 +24,22 @@ Aqui ficam os materiais de produção: playbacks, narrações, vídeos, projeto 
 cantata-o-amor-desceu/
 ├── README.md
 ├── partituras/
-│   ├── revisao-partitura-PT.md   # revisão da partitura em português (v2 → v3) contra a original
-│   └── auditoria-v3.md           # auditoria da versão definitiva contra a original
+│   ├── revisao-partitura-PT.md        # revisão da partitura em português (v2 → v3) contra a original
+│   ├── auditoria-v3.md                # auditoria da versão definitiva contra a original
+│   └── revisao-partitura-completa.md  # revisão da partitura completa (coro e piano)
+├── kits-de-voz/
+│   └── kits-de-voz.md         # como os kits de voz foram feitos e o que há em cada um
 ├── roteiro/
 │   ├── etapa-1-estrutura.md   # ordem das músicas, durações, narração e mapa geral de tempos
-│   └── mapa-de-tempos.json    # os mesmos tempos, em segundos, para scripts
-└── ...                        # playbacks, narrações, vídeos, projeto do editor (a adicionar)
+│   ├── mapa-de-tempos.json    # os mesmos tempos, em segundos, para scripts
+│   ├── etapa-2-letras.md      # letras alinhadas: compassos, vozes e tempo de cada verso (sem o texto)
+│   ├── playback-continuo.md   # faixa única com os seis playbacks e as pausas do original
+│   └── playback-continuo.json # início de cada playback na faixa única, em segundos
+├── scripts/                   # scripts das Etapas 1 e 2 (ver scripts/README.md)
+└── ...                        # playbacks, narrações, vídeos, projeto do editor (fora do repositório)
 ```
+
+O repositório é público. Por isso ficam fora dele os arquivos de áudio e vídeo, as partituras e tudo o que traz a letra ou o texto da narração (legendas .srt, versão da Etapa 2 com a letra). Esse material está no Drive do projeto.
 
 ## Padrão de nomes
 
