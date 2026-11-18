@@ -23,5 +23,9 @@ Aqui ficam os materiais de produção: playbacks, narrações, vídeos, projeto 
 ```
 cantata-o-amor-desceu/
 ├── README.md
+├── biblioteca-cenas/    # instruções, catálogo e prévias das 519 cenas de apoio (vídeos no Drive)
+├── roteiro/             # roteiro visual (Etapa 3): cena, fonte e intenção de cada momento
 └── ...                  # playbacks, narrações, vídeos, projeto do editor (a adicionar)
 ```
+
+**Cenas de apoio:** comece por [`biblioteca-cenas/README.md`](biblioteca-cenas/README.md). Lá estão as pastas por tema, as prévias numeradas, a minutagem útil dos filmes bíblicos, as regras para não repetir cenas e o padrão da letra grande no centro da tela.

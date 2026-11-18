@@ -1,0 +1,21 @@
+# 11 · Natal e celebração
+
+11 vídeos. Os arquivos estão no Drive, na pasta `biblioteca-cenas/11_natal-celebracao`. O número de cada quadro na prévia corresponde à linha do índice abaixo.
+
+![Prévia numerada](previa.jpg)
+
+```
+   1  blinking-round-lights-with-bokeh-effect_38.mp4  (10 s)
+   2  branches-of-a-pine-decorated-with-christmas-lights_41949.mp4  (4 s)
+   3  christmas-particle-bokeh_18111_720p.mp4  (10 s)
+   4  christmas-tree-with-lights-at-home_44562.mp4  (22 s)
+   5  golden-ornament-with-light-leaks-and-bokeh_16110_720p.mp4  (44 s)
+   6  gold-sparklers_681.mp4  (39 s)
+   7  northern-lights-in-the-night-sky_4037.mp4  (8 s)
+   8  unfocused-lights-on-background_28444_720p.mp4  (41 s)
+   9  very-excited-little-girl-opening-a-christmas-gift-with-her_39744.mp4  (11 s)
+  10  yellow-northern-lights-in-norway_4036.mp4  (6 s)
+  11  yellow-sparklers_682.mp4  (22 s)
+```
+
+[← voltar à biblioteca](../README.md)

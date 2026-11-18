@@ -1,0 +1,29 @@
+# 01 · Bible Videos: natividade e vida de Jesus
+
+19 vídeos. Os arquivos estão no Drive, na pasta `biblioteca-cenas/01_bible-videos-natividade-e-vida-de-jesus`. O número de cada quadro na prévia corresponde à linha do índice abaixo.
+
+![Prévia numerada](previa.jpg)
+
+```
+   1  2011-10-002-an-angel-foretells-christs-birth-to-mary.mp4  (259 s)
+   2  2011-10-003-mary-and-elisabeth-rejoice-together.mp4  (315 s)
+   3  2011-10-004-mary-and-joseph-travel-to-bethlehem.mp4  (137 s)
+   4  2011-10-005-shepherds-learn-of-the-birth-of-christ.mp4  (181 s)
+   5  2011-10-007-the-wise-men-seek-jesus.mp4  (342 s)
+   6  2011-10-020-jesus-is-laid-in-a-tomb.mp4  (225 s)
+   7  2011-10-021-jesus-is-resurrected.mp4  (255 s)
+   8  2011-10-024-the-baptism-of-jesus.mp4  (190 s)
+   9  2011-10-025-he-is-risen.mp4  (439 s)
+  10  2011-10-027-mary-the-mother-of-jesus.mp4  (131 s)
+  11  2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free.mp4  (266 s)
+  12  2011-10-042-for-god-so-loved-the-world.mp4  (289 s)
+  13  2011-10-059-the-good-shepherd-and-other-sheep-i-have.mp4  (204 s)
+  14  2011-10-063-jesus-declares-the-parable-of-the-lost-sheep.mp4  (140 s)
+  15  2011-10-064-suffer-the-little-children-to-come-unto-me.mp4  (165 s)
+  16  2011-10-067-the-nativity.mp4  (472 s)
+  17  2014-01-003-young-jesus-teaches-in-the-temple.mp4  (150 s)
+  18  2014-01-004-the-naming-of-john-the-baptist.mp4  (216 s)
+  19  2014-01-007-to-this-end-was-i-born.mp4  (280 s)
+```
+
+[← voltar à biblioteca](../README.md)
