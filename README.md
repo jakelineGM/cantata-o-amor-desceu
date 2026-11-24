@@ -63,6 +63,12 @@ Selecione as seguintes pastas:
 `videos\2-vem-emanuel-vem`
 `videos\3-da-nos-paz`
 
+Baixe os seguintes vídeos na qualidade máxima e salve dentro de `videos\1-o-amor-desceu`:
+- https://www.churchofjesuschrist.org/media/video/2011-10-0067-the-nativity?lang=eng&collection=bible-videos-nativity
+- https://www.churchofjesuschrist.org/media/video/2019-09-0050-the-christ-child-a-nativity-story-lighttheworld?lang=eng&collection=christmas-messages
+
+Depois disso não deve haver problemas de arquivos ausentes.
+
 
 ### 4. Regras de ouro para não perder trabalho
 
