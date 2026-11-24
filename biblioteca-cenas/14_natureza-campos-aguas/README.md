@@ -1,0 +1,32 @@
+# 14 · Natureza, campos e águas
+
+22 vídeos. Os arquivos estão no Drive, na pasta `biblioteca-cenas/14_natureza-campos-aguas`. O número de cada quadro na prévia corresponde à linha do índice abaixo.
+
+![Prévia numerada](previa.jpg)
+
+```
+   1  aerial-shot-approaches-a-small-stream-of-water-in-the_50574.mp4  (16 s)
+   2  aerial-view-of-a-wooded-landscape-with-a-road_2793.mp4  (13 s)
+   3  a-picturesque-small-creek-with-calm-waters-and-steam-at_51662.mp4  (11 s)
+   4  boy-wearing-a-superhero-red-cape-in-a-golden-wheat_46948_720p.mp4  (19 s)
+   5  close-up-of-a-happy-couple-walking-through-a-field_45857_720p.mp4  (5 s)
+   6  countryside-meadow_4075.mp4  (23 s)
+   7  flying-quickly-over-a-grassy-meadow_41548.mp4  (13 s)
+   8  foamy-waves-of-the-sea-crashing-with-a-coastline_31746_720p.mp4  (30 s)
+   9  green-meadow-in-the-countryside_31618_720p.mp4  (30 s)
+  10  hand-moving-through-golden-wheat_45379_720p.mp4  (29 s)
+  11  lake-surrounded-by-dry-grass-in-the-savanna_5030.mp4  (14 s)
+  12  little-boy-and-girl-running-through-the-grass-on-a_48169_720p.mp4  (23 s)
+  13  open-plain-with-high-grass-and-a-lake-with-grass_10292_720p.mp4  (33 s)
+  14  river-in-the-middle-of-a-forest-full-of-seagulls_51446.mp4  (11 s)
+  15  sea-birds-flying-in-slow-motion-over-the-water-as_45581_720p.mp4  (31 s)
+  16  texture-of-the-flora-of-a-forest-in-detail_5027.mp4  (26 s)
+  17  time-lapse-of-a-green-meadow_4070.mp4  (22 s)
+  18  waterfall-closeup_17383_720p.mp4  (15 s)
+  19  waterfall-into-a-flowing-river_45633_720p.mp4  (16 s)
+  20  wheat-field-growing-in-summer_7838_720p.mp4  (32 s)
+  21  wheat-field-ready-for-harvesting_8297_720p.mp4  (21 s)
+  22  young-boy-walking-through-a-field_7763_720p.mp4  (13 s)
+```
+
+[← voltar à biblioteca](../README.md)
