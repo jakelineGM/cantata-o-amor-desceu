@@ -25,7 +25,7 @@ Aqui ficam os materiais de produção: playbacks, narrações, vídeos, projeto 
 
 ### 1. Baixar o projeto pela primeira vez
 
-1. Instale o **Git** e o **Shotcut** (links acima).
+1. Instale o **Git** e o **Shotcut** (links acima). Os vídeos e áudios usam **Git LFS**, que já vem com o instalador do Git para Windows. Rode uma vez, em qualquer terminal: `git lfs install`.
 2. Escolha uma pasta com bastante espaço livre (os vídeos passam de **1,5 GB**) e rode:
 
    ```
